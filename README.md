@@ -1,7 +1,7 @@
 ## Hello, I’m Xavier 👋
 - 👱 I'm 21 years old and I'm a student 
 - 👀 I'm currently finishing my degree in computer science and engineering
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Java and C#
 - 💞️ I’m looking to improve my skills as a developer and learn together with other people
 - 🍀 My goal for 2022 is to create a good portfolio of projects
 
