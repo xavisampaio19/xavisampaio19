@@ -1,9 +1,9 @@
 ## Hello, I’m Xavier 👋
-- 👱 I'm 21 years old and I'm a student 
-- 👀 I'm currently finishing my degree in computer science and engineering
-- 🌱 I’m currently learning Python, Java and C#
-- 💞️ I’m looking to improve my skills as a developer and learn together with other people
-- 🍀 My goal for 2022 is to create a good portfolio of projects
+- 👱 I'm 24 years old and I'm working at Where2retail 
+- 👀 I'm currently a Technical Consultant
+- 🌱 I’m currently developing with JavaScript
+- 💞️ I’m always looking to improve my skills as a developer and learn together with other people
+- 🍀 My goal for 2025 is to get more into AI and new programming languages
 
 ### Let's code 🖥️ 
 
